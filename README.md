@@ -2,9 +2,9 @@
 
 > **刷出你的专属传说宠物！**
 
-![Legendary Buddy 效果图](Legendary_Gable.png)
+![Legendary Buddy 效果图](images/Legendary_Gable.png)
 
-*刷出的 Legendary Dragon — 金色五星闪闪发光*
+*对Claude Code 默认给的Buddy不满意，可在Claude Code 中刷出你想要的的专属 Shiny Legendary Buddy — 金色稀有闪闪发光的宠物*
 
 ---
 
